@@ -31,4 +31,4 @@ fetch('http://api.nbp.pl/api/exchangerates/tables/a/last/1?format=json')
 
 ## Example
 
-[demo](https://konstnatyw.pl/api-nbp)
+[demo](http://konstantyw.pl/api-nbp)
